@@ -2,7 +2,7 @@
 
 * [ChatLy](https://github.com/ZARRAR-1/chatLy/tree/master)
 * [Restaurant App](https://github.com/ZARRAR-1/restaurant_app)
-* [Fetching Users] (https://github.com/ZARRAR-1/practise_fetching_users)
+* [Fetching Users](https://github.com/ZARRAR-1/practise_fetching_users)
 * [Custom Xylophone App](https://github.com/ZARRAR-1/xylophone_instrument)
 * [Event RSVP App](https://github.com/ZARRAR-1/Event-RSVP-App/tree/main)
 * [Shopping Cart App](https://github.com/ZARRAR-1/my_bloc_cart_app)
